@@ -2,7 +2,7 @@
 
 # WEEK ONE CODE CHALLENGE
 
-#### Date, 2025/09/109
+#### Date, 2025/09/09
 
 #### By EDNAH KIMANI
 
@@ -40,5 +40,5 @@ https://github.com/Httpednah/week-1-js-code-challenge
 
 ### License
 
-The content of this site is licensed under Ednah kkimani
+The content of this site is licensed under Ednah kimani
 Copyright (c) 2025.
