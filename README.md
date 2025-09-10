@@ -1,6 +1,6 @@
 # week-1-js-code-challenge
 
-# (Project Name)
+# WEEK ONE CODE CHALLENGE
 
 #### Date, 2025/09/109
 
